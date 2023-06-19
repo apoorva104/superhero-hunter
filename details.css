@@ -1,0 +1,30 @@
+
+
+#img{
+    height: 200px;
+    width: 150px;
+}
+
+#name{
+    text-align: center;
+    text-decoration: solid;
+    text-indent: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color: black;
+    font-style: oblique;
+}
+
+body{
+   background-color: lightblue;
+   background-image: url(wallpaperflare.com_wallpaper.jpg);
+}
+.carousel-item{
+     background-color: darkgrey; 
+    text-align: center;
+    height: 600px;
+    width: 432px;
+}
+ul {
+    list-style-type: none;
+}

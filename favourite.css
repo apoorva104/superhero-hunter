@@ -1,0 +1,33 @@
+body 
+{ 
+  background-image: url(favBack.jpg);
+  
+}
+
+#list
+{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    
+}
+#name
+{
+    font-size: x-large;
+    text-decoration: dotted;
+   color: red;
+   display: block;
+}
+#favImg
+{ display: block;
+    height: 300px;
+    width: 176px;
+}
+.del
+{
+    background-color: darkkhaki;
+}
+#home
+{
+    background-color: lightslategrey;
+}

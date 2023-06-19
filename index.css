@@ -1,0 +1,32 @@
+
+  #name
+  {
+    height: 28px;
+    width: 100px;
+    padding: 5px 0px;
+    border-radius: 3px;
+    color: red;
+    text-decoration: dashed;
+    text-align: center;
+    font-family: cursive;
+    font-size: large;
+    
+  }
+
+  body 
+  { 
+    background-image: url(index1.jpg);
+  }
+  #favImg
+  {
+    height: 20px;
+    border: none;
+    border-radius: 3px;
+   float: right;
+   
+  }
+  #list
+  {
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+  }
